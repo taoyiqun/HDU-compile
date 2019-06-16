@@ -1,0 +1,11 @@
+begin
+end
+if
+then
+else
+for
+while
+do
+and
+or
+not
