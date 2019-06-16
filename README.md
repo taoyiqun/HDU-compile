@@ -347,11 +347,11 @@ class   LexerUtil:
 
 ### 运行结果
 
-![1559667435199](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559667435199.png)
+![1559667435199]((http://github.com/taoyiqun/HDU-compile/raw/master/1559667435199.png)
 
 ![1559667553503](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559667553503.png)
 
-![1559667649797](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559667649797.png)
+![1559667649797]((http://github.com/taoyiqun/HDU-compile/raw/master/1559667649797.png)
 
 ## 递归下降分析子程序
 
@@ -523,17 +523,17 @@ class ParserUtil :
 
 正确输入
 
-![1559669104150](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559669104150.png)
+![1559669104150]((http://github.com/taoyiqun/HDU-compile/raw/master/1559669104150.png)
 
-![1559669781414](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559669781414.png)
+![1559669781414]((http://github.com/taoyiqun/HDU-compile/raw/master/1559669781414.png)
 
-![1559669815450](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559669815450.png)
+![1559669815450]((http://github.com/taoyiqun/HDU-compile/raw/master/1559669815450.png)
 
 错误输入:
 
-![1559669169725](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559669169725.png)
+![1559669169725]((http://github.com/taoyiqun/HDU-compile/raw/master/1559669169725.png)
 
-![1559669247805](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1559669247805.png)
+![1559669247805]((http://github.com/taoyiqun/HDU-compile/raw/master/1559669247805.png)
 
 ## LL(1)语法分析
 
@@ -912,13 +912,13 @@ class LLOneAnalyzer:
 
 ### 运行结果
 
-- 左递归和左公共因子消除![1560671878804](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1560671878804.png)
+- 左递归和左公共因子消除![(http://github.com/taoyiqun/HDU-compile/raw/master/1560671878804.png)
 
 - 分析表
 
-  ![1560671670536](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1560671670536.png)
+  ![1560671670536]((http://github.com/taoyiqun/HDU-compile/raw/master/1560671670536.png)
 
-- 分析过程![1560671590380](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1560671590380.png)
+- 分析过程![1560671590380]((http://github.com/taoyiqun/HDU-compile/raw/master/1560671590380.png)
 
 ## 有限自动机的确定和最小化
 
@@ -1170,13 +1170,13 @@ else:
 
 ### 实验结果
 
-![1560674007834](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1560674007834.png)
+![1560674007834]((http://github.com/taoyiqun/HDU-compile/raw/master/1560674007834.png)
 
 ## 界面整合
 
 这里编写***UI***模块，采用PyQτ5进行界面描绘。
 
-![1560675162292](C:\Users\hdutyq\AppData\Roaming\Typora\typora-user-images\1560675162292.png)
+![1560675162292]((http://github.com/taoyiqun/HDU-compile/raw/master/1560675162292.png)
 
 在源码部分，输入要分析的代码，程序会将此代码储存到yuan.txt文件中，源码上面展示去除注释后代码样子，处理后的代码储存在code.txt文件中。源码右边是Qtable，主要展示语法分析过程和LL文法的分析表。
 
